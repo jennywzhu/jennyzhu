@@ -1,0 +1,59 @@
+body,html {
+ 	height:100%;width:100%
+ 	}
+
+.intro {
+	background: bottom center no-repeat;
+	}
+
+.cover img {
+	margin-left:360px;
+}
+
+.title {
+	margin-left:220px;
+}
+
+.title h1 {
+	margin-top:50px;
+}
+
+.title h2 {
+	font-weight:bold;
+	color:#cccccc;
+}
+
+#content {
+	margin-top:40px;
+}
+
+#labels {
+	float:left;
+	margin-left:220px;
+	height:500px;
+	padding-right:35px;
+}
+
+#labels h5 {
+	font-size:18px;
+	font-weight:bold;
+	margin:0;
+}
+
+#labels h6 {
+	font-size:15px;
+}
+
+#labels h2 {
+	font-size:18px;
+	font-weight:bold;
+}
+
+#labels h3 {
+	font-size:15px;
+}
+
+#description {
+	float:center;
+	margin-right:220px;
+}
